@@ -49,7 +49,7 @@ for x in A_List[:]:
 
 
 print("\n")
-print("Class Exercise-3-Extra= A")
+print("Class Exercise-3-Extra- A")
 y=[]
 for num in A_List[:]:
     if num < 5:
